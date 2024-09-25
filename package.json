@@ -1,0 +1,20 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "just a little server to test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "express"
+  ],
+  "author": "Italo Hissa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0",
+    "sqlite3": "^5.1.7",
+    "uuid": "^10.0.0"
+  }
+}
